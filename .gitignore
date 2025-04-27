@@ -180,3 +180,4 @@ cython_debug/
 !final_result.csv
 *.pkl
 *.npy
+catboost_info/
