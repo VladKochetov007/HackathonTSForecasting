@@ -10,3 +10,5 @@ Time series forecasting hackathon 26-27 Apr 2025
 # IMPORTANT
 ![Image](image.png)
 Prediction is better than it was presented
+
+- True $R^2$ is not 0.2, but 0.72
